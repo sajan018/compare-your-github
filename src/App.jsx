@@ -208,7 +208,7 @@ function App() {
                 }}
                 transition={transition}
                 onSubmit={handleSubmit}
-                className="flex flex-col gap-4 items-center justify-center mt-4 max-md:flex-col max-md:w-full max-md:items-center "
+                className="flex flex-col sm:gap-4 items-center justify-center mt-4 max-md:flex-col max-md:w-full max-md:items-center "
               >
                 <div className="my-info w-5/12 text-center relative max-md:w-full">
                   {myError && (

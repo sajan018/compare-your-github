@@ -190,7 +190,7 @@ function App() {
 
         <div
           ref={containerRef}
-          className={`main-container  flex flex-col pb-24 md:px-8 max-md:pb-8 max-md:w-full`}
+          className={`main-container  flex flex-col mt-5 md:mt-0 pb-24 md:px-8 max-md:pb-8 max-md:w-full`}
         >
           <div className="text-center font-semibold  py-12  text-yellow-50 sm:text-2xl ">
             <span className="bg-yellow-300 p-3 rounded-full px-10">Compare your Github Profile </span>

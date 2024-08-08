@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100..900&display=swap');
+
+*{
+  font-family: "Raleway", sans-serif!important;
+}
+body {
+  background-color: black;
+  background-image:url('assets/gorilla-bg-min.jpg');
+  height: 100%;
+}
+
+.body-container {
+  background-image:url('assets/gorilla-bg-min.jpg');
+  background-position: center top;
+  background-size: cover;
+}

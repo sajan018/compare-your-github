@@ -7,6 +7,10 @@
 body {
   background-color: black;
   background-image:url('assets/gorilla-bg-min.jpg');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+ 
   height: 100%;
 }
 
